@@ -209,4 +209,4 @@
 ## <ins>Contributors:</ins>
 - [Abhinav Reddy Boddu](https://github.com/Abhinavreddy-B)
 - [Rohit Gowlapalli](https://github.com/ROHIT32767)
-- [Gnana Prakash Punnavajhala](https://github.com/GnanaPrakashSG2004)
+- [Gnana Prakash Punnavajhala](https://github.com/geepee42)
